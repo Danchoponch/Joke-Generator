@@ -26,15 +26,7 @@ To set up and run the **Joke Generator** project locally, follow these steps:
    ```bash
    git clone <repository-url>
 
-2. **Navigate to Project Directory**:
-
-
-    ```bash
-    cd joke-app
-    ```
-
-
-3. **Install Dependencies: Run the following command to install the required packages:***
+2. **Install Dependencies: Run the following command to install the required packages:***
 
 
     ```bash
